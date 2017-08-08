@@ -9,6 +9,7 @@
   "author": "John Anthony <john.anthony@optimisemedia.com>",
   "license": "MIT",
   "dependencies": {
-    "remote-git-tags": "^2.0.0"
+    "git-fetch-pack": "^0.1.1",
+    "git-transport-protocol": "^0.1.0"
   }
 }
