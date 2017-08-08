@@ -1,5 +1,5 @@
 {
-  "name": "ls-remote",
+  "name": "git-ls-remote-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
