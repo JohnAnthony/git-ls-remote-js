@@ -1,0 +1,14 @@
+{
+  "name": "ls-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Anthony <john.anthony@optimisemedia.com>",
+  "license": "MIT",
+  "dependencies": {
+    "remote-git-tags": "^2.0.0"
+  }
+}
