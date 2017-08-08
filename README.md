@@ -14,4 +14,4 @@ lsRemote('https://github.com/JohnAnthony/git-ls-remote').then((refs) => {
 ```
 
 ## License
-MIT &copy; Optimise Media
+MIT &copy; [Optimise Media](https://www.optimisemedia.com/)
